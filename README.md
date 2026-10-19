@@ -1,6 +1,6 @@
 ꉂ(˚ཫ˚*) Hi!
 
-Boarder from **China** in **Canada**
+Boarder from **China** in **US**
 
 Editor: [SublimeText](https://www.sublimetext.com/) -> [NeoVim](https://neovim.io/)
 
